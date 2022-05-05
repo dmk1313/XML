@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
     <skills>
-        <row>bash</row>
-        <row>JS</row>
+        <row>Manual_Testing</row>
+        <row>SQL</row>
+        <row>Functional_Testing</row>
+        <row>Test_Cases</row>
+        <row>Git</row>
+        <row>touch</row>
+        <row>Ubuntu</row>
         <row>Postman</row>
-        <row>Android SDK</row>
-        <row>more on site https://ksendzov.com/</row>
+        <row>Mobile_Applications</row>
+        <row>Web_Applications</row>
+        <row>Postman_API</row>
+        <row>JIRA</row>
+        <row>DBeaver</row>
+        <row>Bug_Tracking</row>
+        <row>JMeter</row>
+        <row>Web_Services</row>
+        <row>JavaScript</row>
+        <row>bash</row>
+        <row>Hyper-V</row>
+        <row>Charles_Web_Debugging_ProxyCharles</row>
+        <row>Network_equipment_setup</row>
     </skills>
 </root>
